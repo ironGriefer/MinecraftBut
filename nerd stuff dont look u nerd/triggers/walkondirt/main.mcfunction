@@ -1,0 +1,1 @@
+execute as @a if predicate mcbut:walkondirt run function mcbut:walkondirt/bridge

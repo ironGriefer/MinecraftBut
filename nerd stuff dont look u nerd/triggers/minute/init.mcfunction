@@ -1,0 +1,1 @@
+schedule function mcbut:minute/tran 60s

@@ -1,0 +1,1 @@
+execute as @a at @s if predicate mcbut:cowlook run function mcbut:cow/bridge

@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=lavafollows] at @s facing entity @p eyes run function mcbut:lavafollows/follow

@@ -1,0 +1,1 @@
+summon zombie ^ ^ ^-10 {Invulnerable:1b,FallFlying:1b,CustomName:'{"text":"Dirby__","color":"white","italic":false}',ArmorItems:[{},{},{},{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:"Dirby__"}}]}

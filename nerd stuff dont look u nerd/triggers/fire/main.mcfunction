@@ -1,0 +1,1 @@
+execute as @a if predicate mcbut:fire run function mcbut:fire/bridge

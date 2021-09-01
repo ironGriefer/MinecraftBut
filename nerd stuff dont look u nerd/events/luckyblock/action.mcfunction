@@ -1,0 +1,3 @@
+
+summon armor_stand ~ ~5 ~ {Marker:1b,Invisible:1b,Tags:["luckyblock"],ArmorItems:[{},{},{},{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:{Id:[I;-940982597,-1981660917,-1797831442,692841550],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI5MmNiNDMzMzNhYTYyMWM3MGVlZjRlYmYyOTliYTQxMmI0NDZmZTEyZTM0MWNjYzU4MmYzMTkyMTg5In19fQ=="}]}}}}]}
+execute as @e[type=armor_stand,tag=luckyblock,sort=nearest,limit=1] at @s run function mcbut:luckyblock/luckyblock

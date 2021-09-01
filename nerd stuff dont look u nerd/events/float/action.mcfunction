@@ -1,0 +1,1 @@
+effect give @s levitation 2 255 true

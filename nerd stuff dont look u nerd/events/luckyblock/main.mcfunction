@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:armor_stand,tag=luckyblock] at @s positioned ~ ~2 ~ unless block ~ ~ ~ minecraft:yellow_stained_glass run function mcbut:luckyblock/luckyblock2
